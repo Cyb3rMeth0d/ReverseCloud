@@ -1,41 +1,23 @@
-# Fuerz Bruta
-> Multithreading Instagram Fuerza Bruta Instagram By Cyb3rMeth0d
+# Reverse Cloud
+Una pequeña herramienta basada en Ruby para eludir los dominios protegidos de CloudFlare utilizando CrimeFlare. Esta herramienta incluye mucho de la herramienta HatCloud, pero se han solucionado muchos errores y problemas.
+
+# Información
+
+HatCloud Autor: https://github.com/HatBashBR
+
+# Comandos / Uso
+
+1. Para iniciar Tool (ruby ReverseCloud.rb) 
+2. Para obtener ayuda y comandos (ruby ReverseCloud.rb -h)
+3. Para obtener IP dominio protegido por Cloudflare (ruby ReverseCloud.rb -b o --byp URL WEB)
+
+# Reportar Bugs
+
+Necesitarás que Ruby funcione, la mejor manera de descargarlo e instalarlo (descarga la versión correcta según tu sistema operativo:
+https://www.ruby-lang.org/en/downloads/
+
+If you come across any bugs while executing commands etc, please create a post in the 'Issues' area:
+https://github.com/Cyb3rMeth0d/ReverseCloud/issues
 
 
-                                ......                                  
-                            .:||||||||:.                                 
-                           /            \                                
-                          (   o      o   )                               
-                --@@@@----------:  :----------@@@@--                    
-                          Cyb3rMeth0d V1                                 
-                                                                        
-           ___       ___  __  __          __   __       ___              
-          |__  |  | |__  |__)  /  /\     |__) |__) |  |  |   /\          
-          |    \__/ |___ |  \ /_ /~~\    |__) |  \ \__/  |  /~~\ 
-    
 
-**[Aviso] No me hago responsble del uso del Script [Aviso]**
-
-Descifrando la contraseña de la cuenta de instagram al dar el archivo de lista de contraseñas y el proxy de soporte
-
-### Uso
-
-```./Fuerza-Bruta.py [-h] -u USUARIO -w CONTRASEÑA.TXT -p PROXY.TXT [-t THREAD] [-v] [-d]```
-
-``` ./FuerzaBruta -u Usuario -w Contraseña.txt -p Proxy.txt -t 8```
-
-### Requisitos
-
-* Ninguno :)
-
-### TODO
-
-- [x] Eliminar dependencias adicionales
-- [x] Añadir soporte para python 3 y 2
-- [x] Agregu la opción de registro y verbosa
-- [ ] Soporte Multi-Cuenta
-- [ ] Página mejores Proxys Gratuitos https://free-proxy-list.net/
-- [ ] Descargar el Script en GUIHUB.COM
-
-GRACIAS POR USAR EL SCRIPT
-# Fuerz-Bruta-
